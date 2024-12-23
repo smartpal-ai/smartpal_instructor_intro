@@ -54,7 +54,7 @@ The SmartPal app consists of three main screens:
       - We ask you to **add SmartPal (smartpal@umn.edu) as an Teacher** to your course. This gives us access to your course, and we can use this teacher role to retrieve course and student information using Canvas API, and make updates such as upload SmartPal related documents and grades.
       - Sometimes, we may add one or two members of the research team as an observer or TA (*you don't need to do anything*), e.g. Tao Li (li003479@umn.edu) and Fagun Raithatha (raith011@umn.edu) 
 2. **Determine the Participation Incentives**: As part of the research, we need students to complete a pre survey (at the beginning of the semester) and a post survey (at the end), and to install the SmartPal app. Students may require some incentives to complete these steps.  
-      - We recommend **1% worth of extra credit (or course credit)** given to students for this research participation. That said, we can still deploy SmartPal without credit incentives, though our past experiences indicate that students are less likely to try the app or complete the surveys.
+      - We recommend **1-2% worth of extra credit (or course credit)** given to students for this research participation. That said, we can still deploy SmartPal without credit incentives, though our past experiences indicate that students are less likely to try the app or complete the surveys.
       - **Please let us know whether you are willing to offer such extra points/credits, and how much.** 
 3. **Include Syllabus Language about SmartPal**: Include some language about SmartPal in the syllabus, which we will share with you.  
 4. **(Optional) Checklist for Canvas**:The follow checklist can help SmartPal better answer student questions.
@@ -102,4 +102,4 @@ We will not do the following:
 ## Contact
 
 - Please forward SmartPal-related student queries to [smartpal@umn.edu](mailto:smartpal@umn.edu). 
-- Instructors please feel free to contact De Liu ([deliu@umn.edu](deliu@umn.edu)) directly. 
+- Instructors please feel free to contact De Liu ([deliu@umn.edu](mailto:deliu@umn.edu)) directly. 
