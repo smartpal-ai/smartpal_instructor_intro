@@ -31,14 +31,14 @@
   }
   
   /* Optional: Link and button styling */
-  a {
+  /* a {
     color: var(--md-primary-fg-color);
   }
   
   a:hover {
     color: var(--md-accent-fg-color);
   }
-  
+   */
   .md-button {
     background-color: var(--md-accent-fg-color);
     color: #fff;
