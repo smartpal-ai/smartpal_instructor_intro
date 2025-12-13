@@ -14,7 +14,7 @@ theme:
     - content.code.copy
   language: en
   favicon: images/favicon.png
-  # logo: images/logo.png
+  # logo: images/logo-with-text-long-300.jpg
 extra_css:
   - css/extra.css
 
