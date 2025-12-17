@@ -1,42 +1,25 @@
-<img src="images/logo-with-text-long-600.png" alt="SmartPAL logo" width="50%">
+<div style="text-align: center; margin-top: 2rem;">
 
-# SmartPAL Instructor Guides
+<img src="images/logo-with-text-long-600.png" alt="SmartPAL logo" style="max-width: 420px; width: 80%; margin-bottom: 1.5rem;" />
 
-SmartPAL is a learning support tool that integrates with Canvas to help students stay engaged and organized, while providing instructors with high-level insights into course activity.
+<p>
+SmartPAL integrates with Canvas to support student engagement and provide instructors with high-level insights into course activity.
+</p>
 
-Please select the guide that best matches your use case:
+</div>
 
----
+<br>
 
-## Research Pilot 
+<div style="text-align: center; margin-top: 2.5rem;">
 
-This guide is intended for instructors participating in the **SmartPAL research pilot**.
+| <a class="landing-btn" href="research-pilot/">Research Pilot (UMN)</a> | <a class="landing-btn" href="instructional/">Instructional Pilot</a> |
+|:---:|:---:|
 
-It covers:
-- Research purpose and study context
-- Instructor responsibilities for the research pilot
-- Student participation expectations and incentives
-- Canvas setup and SmartPAL interactions
-- Data collection and reporting for research use
+</div>
 
-[Go to the Research Pilot Instructor Guide](research-pilot.md)
 
----
+<br>
 
-## Instructional Pilot (Non-Research Use)
-
-This guide is intended for instructors using SmartPAL for **instructional support only**, without a research component.
-
-It covers:
-- How SmartPAL supports teaching and learning
-- Instructor setup and syllabus language
-- Weekly reports and instructor portal features
-- Roles and responsibilities
-- Privacy and data protection considerations
-
-[Go to the Instructional Pilot Instructor Guide](instructional-pilot.md)
-
----
-
-If you are unsure which guide applies to your course, please contact  
-**support@smartpal.org** for assistance.
+<p style="text-align: center; font-size: 0.9rem;">
+Questions? Contact <a href="mailto:support@smartpal.org">support@smartpal.org</a>
+</p>
