@@ -2,7 +2,7 @@
 
 # SmartPAL Instructor Guide
 
-Last Revision: August 12, 2025
+Last Revision: December 17th, 2025
 
 ## Overview
 
