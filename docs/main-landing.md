@@ -8,9 +8,9 @@ Please select the guide that best matches your use case:
 
 ---
 
-## Research Pilot (UMN)
+## Research Pilot 
 
-This guide is intended for instructors participating in the **SmartPAL research pilot at the University of Minnesota**.
+This guide is intended for instructors participating in the **SmartPAL research pilot**.
 
 It covers:
 - Research purpose and study context
