@@ -47,3 +47,28 @@
   .md-button:hover {
     background-color: var(--md-accent-fg-color--dark);
   }
+
+/* SmartPAL landing page buttons */
+a.landing-btn {
+  display: inline-block;
+  padding: 1.1rem 2rem;
+  border: 2px solid var(--md-primary-fg-color);
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 1rem;
+  min-width: 280px;
+  text-align: center;
+
+  background-color: var(--md-accent-fg-color);
+  color: var(--md-primary-fg-color);
+
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background-color 0.15s ease;
+}
+
+a.landing-btn:hover {
+  background-color: var(--md-accent-fg-color--light);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
