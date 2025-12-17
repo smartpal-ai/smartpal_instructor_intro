@@ -1,6 +1,6 @@
 <img src="./images/logo-with-text-long-600.png" alt="Alt Text" width="50%">
 
-# SmartPAL Instructor Guide
+# SmartPAL Research Pilot Instructor Guide
 
 Last Revision: December 17th, 2025
 
@@ -15,7 +15,7 @@ SmartPAL leverages information obtained using Canvas API to serve students and i
 
 The current SmartPAL deployment is primarily meant to support research, which entails evaluation of a few learning technologies and their designs. We use the information gathered to drive insights on impact and effectiveness of technologies and suggest design improvements.
 
-Here is a short demo of SmartPAL [https://www.youtube.com/watch?v=frgNlcm70XM](https://www.youtube.com/watch?v=frgNlcm70XM)
+<iframe width="100%" height="450" src="https://www.youtube.com/embed/frgNlcm70XM" title="SmartPAL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen> </iframe>
 
 ## How Does SmartPAL Interact with Students?
 
@@ -109,7 +109,7 @@ We will not do the following:
 - Course Settings: Instructors can enable or disable features like leaderboards and assignment reminders for each course.
 
 ### Mobile App Updates
-- Single Sign-On (SSO): Sign in using your institution’s login credentials — no separate account needed.
+- Single Sign-On (SSO): Sign in using your institution’s login credentials. No separate account needed.
 - Custom Leaderboards: Leaderboards are now optional and can be hidden or shown based on the course setup.
 
 ### Chatbot Enhancements
