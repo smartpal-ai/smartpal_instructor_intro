@@ -2,6 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://www.smartpal.org/</loc>
-         <lastmod>2025-12-13</lastmod>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/academic-integrity/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/contact/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/how-it-works/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/instructional-tool/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/privacy/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/research-participation/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/responsibilities/</loc>
+         <lastmod>2025-12-21</lastmod>
+    </url>
+    <url>
+         <loc>https://www.smartpal.org/ways-to-use/</loc>
+         <lastmod>2025-12-21</lastmod>
     </url>
 </urlset>
