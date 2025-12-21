@@ -17,15 +17,28 @@ theme:
   # logo: images/logo-with-text-long-300.jpg
 extra_css:
   - css/extra.css
+extra_javascript:
+  - js/redirects.js
 
 plugins:
   # - social
   - search
 
-# nav:
-#   - Home: index.md
+nav:
+  - Overview: index.md
+  - How It Works: how-it-works.md
+  - Deployment Options: ways-to-use.md
+  - Instructional Tool Mode: instructional-tool.md
+  - Research Participation Mode: research-participation.md
+  - Academic Integrity: academic-integrity.md
+  - Roles & Responsibilities: responsibilities.md
+  - Privacy: privacy.md
+  # - Canvas Checklist: canvas-checklist.md
+  - Contact: contact.md
 
 markdown_extensions:
+  - toc:
+      toc_depth: 2
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -41,4 +54,4 @@ markdown_extensions:
 
 
 copyright: |
-  &copy; 2024 De Liu
+  &copy; 2025 SmartPAL AI Inc.
