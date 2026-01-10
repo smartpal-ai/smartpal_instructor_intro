@@ -52,10 +52,10 @@ The SmartPAL app consists of three main screens:
 
 1. **Giving SmartPAL Access to Your Canvas Course**. 
       - We ask you to **add SmartPAL (smartpal@umn.edu) as an Teacher** to your course. This gives us access to your course, and we can use this teacher role to retrieve course and student information using Canvas API, and make updates such as upload SmartPAL related documents and grades.
-      - Sometimes, we may add one or two members of the research team as an observer or TA (*you don't need to do anything*), e.g. Tao Li (li003479@umn.edu) and Fagun Raithatha (raith011@umn.edu) 
-2. **Determine the Participation Incentives**: As part of the research, we need students to complete a pre survey (at the beginning of the semester) and a post survey (at the end), and to install the SmartPAL app. Students may require some incentives to complete these steps.  
-      - We recommend **1-2% worth of extra credit (or course credit)** given to students for this research participation. That said, we can still deploy SmartPAL without credit incentives, though our past experiences indicate that students are less likely to try the app or complete the surveys.
-      - **Please let us know whether you are willing to offer such extra points/credits, and how much.** 
+      - Occasionally, we may add one or two members of the team as an observer or TA. 
+2. **Determine the Participation Incentives**: Because we need students to complete weekly reflection, and a prey-survey (at the beginning of the semester) and a post survey (at the end). We usually recommend some participation incentives to complete these steps.  
+      - We recommend **1-2% worth of extra credit (or course credit)** given to students for this research participation. That said, we can still deploy SmartPAL without credit incentives, though our past experiences indicate that students are less likely to complete the reflections or surveys.
+      - **Please let us know whether you are willing to offer incentives, and how much.** 
 3. **Include Syllabus Language about SmartPAL**: Include some language about SmartPAL in the syllabus, which we will share with you.  
 4. **(Optional) Checklist for Canvas**:The follow checklist can help SmartPAL better answer student questions.
       - Always set **due dates** for deliverables such as assignments and quizzes.
