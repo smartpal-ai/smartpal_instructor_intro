@@ -2,20 +2,26 @@
 
 # SmartPAL Instructor Guide
 
-Last Revision: August 12, 2025
+SmartPAL is an AI-powered learning support platform designed to enhance student engagement and learning performance while empowering instructors with data-driven, AI-powered insights and productivity tools.
 
-## Overview
+SmartPAL integrates with Canvas and supports teaching and learning through a combination of:
 
-The overarching goal of the project is to enhance student engagement and learning performance and empower instructors with data driven insights and tools using various learning technologies including Generative AI, chatbot, and gamification. 
+- A course-contextualized AI chatbot designed to support self-regulated learning
+- AI-Guided Assignments that promote critical thinking and autonomy in human-AI collaboration
+- Built-in structured reflection and metacognitive prompts
+- Gamification for sustained engagement
+- Instructor-facing summaries, dashboards, and AI-powered automation for routine tasks
 
-SmartPAL leverages information obtained using Canvas API to serve students and instructors. It bridges the gaps between Canvas, students, and instructors.
+<!-- SmartPAL bridges gaps between Canvas, students, and instructors by providing timely learning support, nudges, and insights throughout the course lifecycle. -->
 
-- **For students**: We provide an iOS/Android app serves as a personal learning assistant connected to Canvas. The app has a build-in GenAI-powered chatbot, a dashboard, and a leaderboard. Students can ask the chatbot courses related questions and also receive chatbot-initiated reminders, updates, and nudges. 
-- **For instructors**: We provide weekly newsletters via email and a web-based teacher dashboard. Below, we describe SmartPAL in a bit more detail. 
+Here is a short introduction to SmartPAL:
 
-The current SmartPAL deployment is primarily meant to support research, which entails evaluation of a few learning technologies and their designs. We use the information gathered to drive insights on impact and effectiveness of technologies and suggest design improvements.
+Using SmartPAL as Instructional Tool
+<iframe width="560" height="315" src="https://youtu.be/ysrNkRPF64w" title="SmartPAL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Here is a short demo of SmartPAL [https://www.youtube.com/watch?v=frgNlcm70XM](https://www.youtube.com/watch?v=frgNlcm70XM)
+Using SmartPAL as Instructional Tool with Research Participation
+<iframe width="560" height="315" src="https://youtu.be/TEUJsxVmWUQ" title="SmartPAL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ## How Does SmartPAL Interact with Students?
 
