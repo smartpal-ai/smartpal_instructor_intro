@@ -16,11 +16,11 @@ SmartPAL integrates with Canvas and supports teaching and learning through a com
 
 Here is a short introduction to SmartPAL:
 
-Using SmartPAL as Instructional Tool
-<iframe width="560" height="315" src="https://youtu.be/ysrNkRPF64w" title="SmartPAL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Using SmartPAL as Instructional Tool without Research Participation
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ysrNkRPF64w?si=B_7dfx1M4iO1IzNF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Using SmartPAL as Instructional Tool with Research Participation
-<iframe width="560" height="315" src="https://youtu.be/TEUJsxVmWUQ" title="SmartPAL Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TEUJsxVmWUQ?si=_VE3qbHb2v01EcOE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## How Does SmartPAL Interact with Students?
